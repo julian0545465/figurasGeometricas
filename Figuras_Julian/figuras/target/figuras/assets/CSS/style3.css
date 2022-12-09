@@ -1,0 +1,12 @@
+th {
+    font-size: 15px;
+    color: rgb(0, 77, 128);
+    text-align: center;
+    border: 2px solid black;
+    font-family: 'Arial', sans-serif;
+}
+td {
+    text-align: center;
+    border: 2px solid black;
+    font-family: 'Arial', sans-serif;
+}
